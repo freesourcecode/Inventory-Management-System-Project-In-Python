@@ -276,7 +276,7 @@ root.title("Inventory Management System by IT Source Code")
 root.mainloop()
 ```
 
-## Main Module Output:
+### Output:
 
 * **Main Module:**
 
@@ -388,7 +388,7 @@ root.title("Add in the database")
 root.mainloop()
 ```
 
-* **Output:** 
+### Output:
 
 <img width="696" height="362" alt="image" src="https://github.com/user-attachments/assets/97be931d-bc04-408a-bfd2-9b51b4781957" />
 
